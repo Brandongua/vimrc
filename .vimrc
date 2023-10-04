@@ -10,6 +10,8 @@ set shiftwidth=4
 
 set expandtab
 
+set autoindent
+
 color desert
 
 nnoremap <c-k> <c-w>k
