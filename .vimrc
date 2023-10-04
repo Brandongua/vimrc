@@ -3,6 +3,8 @@ let g:mapleader = " "
 set nu
 set rnu
 
+set mouse=a
+
 set tabstop=4
 set shiftwidth=4
 
