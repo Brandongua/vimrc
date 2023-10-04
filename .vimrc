@@ -15,3 +15,5 @@ nnoremap <c-j> <c-w>j
 nnoremap <c-l> <c-w>l
 nnoremap <c-h> <c-w>h
 nnoremap <leader>fh :help 
+
+inoremap <c-bs> <c-w>
